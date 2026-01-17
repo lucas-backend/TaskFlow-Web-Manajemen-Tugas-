@@ -47,7 +47,7 @@ export default function App() {
       
       <header className="max-w-4xl mx-auto mb-10">
         <h1 className="text-3xl font-black">TaskFlow</h1>
-        <p className="text-zinc-500">Manajemen tugas dengan website kamu</p>
+        <p className="text-zinc-500">Manajemen tugas dengan website. By Made Dipa</p>
       </header>
 
       <main className="max-w-4xl mx-auto">
